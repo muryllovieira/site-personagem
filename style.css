@@ -1,5 +1,5 @@
 body {
- 
+    background-size: 100%;
     background-image: url(./img/fundoazul.jpeg)
 }
 *{
@@ -16,7 +16,8 @@ header{
 }
 
 .logo{
-    height: 250px;
+    height: 300px;
+    padding-top: 10px;
 }
 
 .foto-jhin{
